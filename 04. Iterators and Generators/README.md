@@ -1,4 +1,4 @@
-# CHAPTER 3. Numbers, Dates, and Times.
+# CHAPTER 4. Iterators and Generators
 
 Iteration is one of Python’s strongest features. At a high level, you might simply view
 iteration as a way to process items in a sequence. However, there is so much more that
